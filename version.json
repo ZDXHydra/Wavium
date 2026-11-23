@@ -1,9 +1,0 @@
-{
-  "version": "1.1.0",
-  "published": "2026-11-23",
-  "size": 263514724,
-  "sha256": "60b3fef9a9c757a097274c988075c886d060d32362c4bbd610b38d6e180319dc",
-  "url": "https://github.com/ZDXHydra/wavium/releases/download/v1.1.0/wavium-update-1.1.0.tar.xz",
-  "notes": "Primera versión con actualizaciones automáticas.\n- La app comprueba si hay novedades al abrirse.\n- Botón 'Buscar actualizaciones' en Ajustes.\n- Las actualizaciones conservan tu cuenta y tus datos.\n- Las instalaciones nuevas arrancan con los ajustes de la portable (aviso al cerrar, bandeja y notificaciones).",
-  "mandatory": false
-}
