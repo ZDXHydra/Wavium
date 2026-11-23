@@ -1,20 +1,11 @@
-# Wavium
+# 🎵 Wavium
 
-\<p align="center">
-&#x20; \<img src="images/wavium_logo.png" alt="Wavium Logo" width="150">
-\</p>
+### Your music. Your experience. Your freedom.
 
-\<h3 align="center">Your music. Your experience. Your freedom.\</h3>
+A modern desktop music player designed to bring your entire music experience into one place.
 
-\<p align="center">
-&#x20; A modern desktop music player designed to bring your entire music experience into one place.
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square\&logo=windows)" alt="Windows">
-&#x20; \<img src="[https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)" alt="Status">
-&#x20; \<img src="[https://img.shields.io/badge/License-TBD-lightgrey?style=flat-square](https://img.shields.io/badge/License-TBD-lightgrey?style=flat-square)" alt="License">
-\</p>
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)
+![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square)
 
 ---
 
@@ -30,39 +21,39 @@ The goal is to create an alternative to traditional music platforms, giving user
 
 Wavium is being developed with the following features in mind:
 
-- **Music Playback** – Play and manage your music from one place.
-- **Music Videos** – Watch official music videos directly within the application.
-- **Synchronized Lyrics** – Follow song lyrics in real time, including synchronized sung sections.
-- **Music Library** – Organize and access your favorite songs.
-- **Playlists** – Create, import and manage personal playlists.
-- **Favorites** – Save your favorite tracks for quick access.
-- **Listening History** – Keep track of previously played songs.
-- **Music Search** – Search for songs, albums and artists.
-- **Download Manager** – Download supported songs, albums and playlists.
-- **Playback Controls** – Shuffle, repeat, skip and control playback.
-- **Statistics** – Explore your listening habits and activity.
-- **Personal Accounts** – Local user accounts with individual settings.
-- **Customization** – Configure the application to suit your preferences.
-- **Multilingual Interface** – Support for multiple interface languages.
+- 🎧 **Music Playback** – Play and manage your music from one place.
+- 🎬 **Music Videos** – Watch official music videos directly within the application.
+- 🎤 **Synchronized Lyrics** – Follow song lyrics in real time.
+- 🎵 **Music Library** – Organize and access your music.
+- 📂 **Playlists** – Create, import and manage personal playlists.
+- ❤️ **Favorites** – Save your favorite tracks.
+- 🕘 **Listening History** – Keep track of previously played songs.
+- 🔎 **Music Search** – Search for songs, albums and artists.
+- ⬇️ **Download Manager** – Download supported songs, albums and playlists.
+- 🔀 **Playback Controls** – Shuffle, repeat, skip and control playback.
+- 📊 **Statistics** – Explore your listening habits.
+- 👤 **Personal Accounts** – Local user accounts with individual settings.
+- ⚙️ **Customization** – Configure the application to suit your preferences.
+- 🌍 **Multilingual Interface** – Support for multiple interface languages.
 
 *Features are subject to change during development. Not all features are necessarily available in the current version.*
 
 ## Interface
 
-Wavium is designed around a clean, minimalist interface with a dark visual identity.
+Wavium features a clean, minimalist interface with a dark visual identity.
 
-The application aims to provide an intuitive navigation experience through dedicated sections:
+The application is organized into dedicated sections:
 
-| Section         | Description                        |
-| --------------- | ---------------------------------- |
-| Home            | Main dashboard and music discovery |
-| Search          | Find songs, albums and artists     |
-| Favorites       | Your saved music                   |
-| Queue           | Manage upcoming tracks             |
-| History         | Previously played music            |
-| Imports         | Manage imported content            |
-| Import Playlist | Import external playlists          |
-| Settings        | Customize your experience          |
+| Section | Description |
+|---|---|
+| Home | Main dashboard and music discovery |
+| Search | Find songs, albums and artists |
+| Favorites | Your saved music |
+| Queue | Manage upcoming tracks |
+| History | Previously played music |
+| Imports | Manage imported content |
+| Import Playlist | Import external playlists |
+| Settings | Customize your experience |
 
 ## Technology
 
@@ -77,7 +68,7 @@ The architecture is intended to support future expansion to additional operating
 
 ## Project Goals
 
-Wavium aims to become a complete music player that prioritizes:
+Wavium aims to deliver:
 
 - A clean and professional user experience.
 - No intrusive advertising.
@@ -91,8 +82,6 @@ Wavium aims to become a complete music player that prioritizes:
 Wavium is currently under active development.
 
 The project is being built from the ground up, with an emphasis on creating a stable, polished and fully functional desktop application.
-
-Contributions, suggestions and feedback may help shape its future development.
 
 ## Roadmap
 
@@ -115,8 +104,6 @@ The licensing terms for Wavium have not yet been established.
 
 ---
 
-\<p align="center">
-&#x20; \<strong>Wavium\</strong>
-&#x20; \<br>
-&#x20; Your music. Your experience. Your freedom.
-\</p>
+### Wavium
+
+**Your music. Your experience. Your freedom.**
