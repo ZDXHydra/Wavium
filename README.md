@@ -86,15 +86,15 @@ The project is being built from the ground up, with an emphasis on creating a st
 
 - [x] Project concept and visual identity.
 - [x] Initial application structure.
-- [ ] Core music player.
-- [ ] Music video integration.
-- [ ] Synchronized lyrics.
-- [ ] Playlist management and importing.
-- [ ] Favorites and listening history.
-- [ ] User accounts and local settings.
-- [ ] Download management.
-- [ ] Statistics and personalization.
-- [ ] Installer and distribution.
+- [x] Core music player.
+- [x] Music video integration.
+- [x] Synchronized lyrics.
+- [x] Playlist management and importing.
+- [x] Favorites and listening history.
+- [x] User accounts and local settings.
+- [x] Download management.
+- [x] Statistics and personalization.
+- [x] Installer and distribution.
 - [ ] Additional operating system support.
 
 ## License
@@ -181,15 +181,15 @@ El proyecto se está construyendo desde cero, con especial atención a la estabi
 
 - [x] Concepto e identidad visual del proyecto.
 - [x] Estructura inicial de la aplicación.
-- [ ] Reproductor musical principal.
-- [ ] Integración de vídeos musicales.
-- [ ] Letras sincronizadas.
-- [ ] Gestión e importación de playlists.
-- [ ] Favoritos e historial de reproducción.
-- [ ] Cuentas de usuario y ajustes locales.
-- [ ] Gestor de descargas.
-- [ ] Estadísticas y personalización.
-- [ ] Instalador y distribución.
+- [x] Reproductor musical principal.
+- [x] Integración de vídeos musicales.
+- [x] Letras sincronizadas.
+- [x] Gestión e importación de playlists.
+- [x] Favoritos e historial de reproducción.
+- [x] Cuentas de usuario y ajustes locales.
+- [x] Gestor de descargas.
+- [x] Estadísticas y personalización.
+- [x] Instalador y distribución.
 - [ ] Compatibilidad con otros sistemas operativos.
 
 ## Licencia
@@ -207,3 +207,4 @@ Los términos de licencia de Wavium todavía no se han establecido.
 *Tu música. Tu experiencia. Tu libertad.*
 
 </p>
+
