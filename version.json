@@ -1,0 +1,10 @@
+{
+  "version": "1.2.0",
+  "published": "2026-11-24",
+  "size": 265965632,
+  "sha256": "10ee91638662b1a298d622a197e65dbc33903a98eba2239d70ce73c358c202c0",
+  "url": "https://github.com/ZDXHydra/wavium/releases/download/v1.2.0/wavium-update-1.2.0.tar.xz",
+  "notes": "Seguridad integral: manifiestos firmados con Ed25519 y actualizaciones con SHA256, URL fijadas y lista blanca, protección anti-rollback, token local HttpOnly contra CSRF, cuentas con PBKDF2 y sesión recordada cifrada con DPAPI, ACL privada en los datos y WebEngine restringido.\nEl aviso al cerrar y la preservación de cuentas y preferencias se mantienen.",
+  "mandatory": false,
+  "signature": "HuWQDF5e+67iw33aIyldsxGadCPu2sOxt7kEFEo3PTVH6mWnsNv1VR2Guf5MP9/hkVt3mJVF0nDcuIhr45g+CQ=="
+}
